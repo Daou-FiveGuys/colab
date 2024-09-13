@@ -2,7 +2,7 @@
 ---
 
 ### 1. Google Drive 에 폴더 생성
-![](%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-13%2017.32.06.png)
+<img width="1174" alt="스크린샷 2024-09-13 17 32 06" src="https://github.com/user-attachments/assets/80ebe906-75a1-46a2-9665-85bf87744b4f">
 
 ### 2. Github 연동하기
 
