@@ -1,4 +1,5 @@
-## Google Colab & Github 연동 방법
+# Google Colab & Github 연동 방법
+
 
 ### 1. Google Drive 에 폴더 생성
 <img width="1174" alt="스크린샷 2024-09-13 17 32 06" src="https://github.com/user-attachments/assets/80ebe906-75a1-46a2-9665-85bf87744b4f">
