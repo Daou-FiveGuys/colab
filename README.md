@@ -20,7 +20,7 @@ drive.mount('/content/drive/')
 
 ~~~python
 # 위에서 생성한 폴더 위치 ex) /content/drive/MyDrive/Daou_FiveGuys
-cd /content/drive/MyDrive/
+cd /content/drive/MyDrive/{생성한 폴더 주소}
 ~~~
 
 > /content/drive/MyDrive/Daou_FiveGuys
